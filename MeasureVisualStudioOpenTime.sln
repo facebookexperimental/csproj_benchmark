@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeasureVisualStudioOpenTime", "MeasureVisualStudioOpenTime\MeasureVisualStudioOpenTime.csproj", "{5B636910-34D0-483A-9BFA-0398EB10FE9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScaleTest001", "ScaleTest\ScaleTest001.csproj", "{CC86F22C-2589-41C3-8069-D7F0046AAE9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B636910-34D0-483A-9BFA-0398EB10FE9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B636910-34D0-483A-9BFA-0398EB10FE9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B636910-34D0-483A-9BFA-0398EB10FE9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B636910-34D0-483A-9BFA-0398EB10FE9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC86F22C-2589-41C3-8069-D7F0046AAE9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC86F22C-2589-41C3-8069-D7F0046AAE9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC86F22C-2589-41C3-8069-D7F0046AAE9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC86F22C-2589-41C3-8069-D7F0046AAE9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C37354A7-C183-41A9-8367-7AD6D743FABD}
+	EndGlobalSection
+EndGlobal

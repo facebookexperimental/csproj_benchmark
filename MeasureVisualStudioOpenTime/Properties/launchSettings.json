@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MeasureVisualStudioOpenTime": {
+      "commandName": "Project",
+      "commandLineArgs": "..\\..\\..\\..\\ScaleTest\\ScaleTest001.csproj 2"
+    }
+  }
+}
